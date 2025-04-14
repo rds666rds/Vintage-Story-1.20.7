@@ -1,0 +1,22 @@
+{
+  "game:ingameerror-forge-lit": "Зажечь кузницу",
+  "game:ingameerror-forge-empty": "Кузница пуста",
+
+  "game:ingameerror-firepit-lit": "Разжечь костер",
+  "game:ingameerror-firepit-empty": "Костёр пуст",
+
+  "game:ingameerror-bellow-requires-bothhands-{0}": "Сначала снимите {0}",
+
+  "game:ingameerror-mustquenchfirst": "Слишком горячо! Сначала охладите {0}",
+
+  "game:heldhelp-quenching": "Закалить",
+  "game:heldhelp-bellow": "Дуть",
+  
+  "item-clothes-hand-blacksmith-gloves": "Кузнечные перчатки <font weight=\"bold\" color=\"#c97932\">[Heat resistant]</font>",
+  "itemdesc-clothes-hand-blacksmith-gloves": "Защитит вас от ожогов при поднятии горячих предметов.",
+
+  "item-bellow": "Меха",
+  "item-bellow-sturdy": "Меха (прочные)",
+  "game:item-handbooktitle-bellow": "Как использовать",
+  "game:item-handbooktext-bellow": "Используйте на <font weight=\"bold\"><a href=\"handbook://block-forge\">Forge</a></font> или <font weight=\"bold\"><a href=\"handbook://block-firepit\">Firepit</a></font> для повышения температуры или ускорения варки/плавки."
+}
