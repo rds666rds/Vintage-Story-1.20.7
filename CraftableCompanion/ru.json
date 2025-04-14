@@ -1,0 +1,15 @@
+{
+  "item-creature-mechcompanion": "Механический компаньон",
+  "item-dead-creature-mechcompanion": "Механический компаньон (мертво) ",
+  "itemdesc-creature-mechcompanion": "<font color=\"#99c9f9\"><i>Один из самых простых автоматов, механический компаньон — любопытный и преданный маленький вьючный мул.</i></font><br>",
+  "item-companionmech-part-wheels": "Механические сопутствующие колеса",
+  "itemdesc-companionmech-part-wheels": "<font color=\"#99c9f9\"><i>Довольно простой, но очень способный</i></font><br>",
+  "item-companionmech-part-cognizance-component": "Компонент механического восприятия спутника",
+  "itemdesc-companionmech-part-cognizance-component": "<font color=\"#99c9f9\"><i>Любопытная, но простая вещица.</i></font><br>",
+  "item-companionmech-part-power-supply": "Механический сопутствующий источник питания",
+  "itemdesc-companionmech-part-power-supply": "<font color=\"#99c9f9\"><i>Достаточно мал, чтобы временно заряжаться.</i></font><br>",
+
+
+  "game:tapestry-craftablecompanionschematic*": "Механическая вспомогательная схема",
+  "game:tapestrylore-craftablecompanionschematic": "<strong>19. Вспомогательная схема</strong>\r\n“Устройство для переноски и транспортировки наших основных вещей. Считайте его надежным спутником для экскурсий.\r\n Его простота сделала их довольно обычными, всегда любопытными, редко понимающими, но непоколебимо преданными. Это сделало их гниение самой жестокой участью всех автоматов. Рабочие лелеяли этих товарищей за то, что они облегчали их бремя, в то время как знать насмехалась над ними и отвергала их как простое подражание своим слугам. В конце концов, только один из них остался верным.”"
+}
